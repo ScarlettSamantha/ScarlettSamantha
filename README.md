@@ -13,11 +13,11 @@ I'm **Scarlett** 🧑‍💻, a lifelong programmer and tech enthusiast with 12+
 - 🔒 **Web Development & Security**: Delivered custom solutions for security incidents, optimized performance, and scaled systems
 
 ### Skills
-- 💻 **Languages**: Python, PHP, Bash, C#  
-- ⚙️ **Frameworks & Tools**: Laravel/Eloquent, Flask, CI/CD, Docker, Git/GitLab, RabbitMQ, Netbox  
+- 💻 **Languages**: Python, PHP, Bash, C#(❌)  
+- ⚙️ **Frameworks & Tools**: Laravel/Eloquent, Flask, CI/CD, Docker, Git/GitLab, RabbitMQ, Elasticsearch  
 - 🛠️ **DevOps**: Kubernetes (k8s), microservices, virtualization, networking, server provisioning  
-- 🗄️ **Databases**: MySQL, PostgreSQL, MongoDB  
-- 🎛️ **Others**: Linux, Netbox, IPSpace
+- 🗄️ **Databases**: MySQL, PostgreSQL, MongoDB
+- 🎛️ **Others**: Linux, Netbox, IPSpace, Networking, *security*
 
 ### Hobbies & Interests
 - 💥 **Airsoft**, 🛫 **travel**, and 🤖 **microelectronics** & **3D printing**  
