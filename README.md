@@ -1,11 +1,11 @@
-## Hi there 👋
+## I am Scarlett Verheul from 🇳🇱👋
 
 I'm **Scarlett** 🧑‍💻, a lifelong programmer and tech enthusiast with 12+ years of industry experience spanning **Hosting**, **SaaS**, and **Platform Integration** projects. I believe in choosing the **right tool for the job** 🛠, focusing on backend development, server automation, and hardware–OS integration.
 
 ### What I'm Currently Up To
 - 🚀 **Exploring** Kubernetes (k8s), advanced Linux workflows, and containerization  
 - 🏗️ **Refining** my core skills in Python, PHP, and Laravel  
-- 🔧 **Building** infrastructure automation solutions as an Infrastructure Software Engineer at [I3D.net](https://www.i3d.net/)
+- 🔧 **Building** infrastructure automation solutions as an Infrastructure Software Engineer.
 
 ### Career Highlights
 - 🌐 **Hosting & Server Automation**: Built and improved production systems focusing on telemetry-driven network automation  
