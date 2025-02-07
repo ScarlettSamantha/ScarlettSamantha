@@ -1,6 +1,6 @@
 ### I am Scarlett Verheul from 🇳🇱👋
 
-I'm Scarlett 🧑‍💻, a lifelong programmer and tech enthusiast with **12+ years** of industry experience spanning **Hosting | SaaS | Platform Integration** projects. I specialize in **complex backend assignments** and thrive in **high-performance computing, automation, and infrastructure**. Frontend development **is not my thing**—I prefer to focus on deep backend optimizations, server architecture, and scalable solutions. I strongly prefer **open-source technologies** and avoid proprietary Microsoft solutions whenever possible.
+I'm Scarlett 🧑‍💻, a lifelong programmer and tech enthusiast with **12+ years** of industry experience spanning **Hosting | SaaS | Platform Integration** projects. I specialize in **complex backend assignments** and thrive in **high-performance computing, automation, and infrastructure**. Frontend development **is not my thing**—I prefer to focus on deep backend optimizations, server architecture, and scalable solutions. I strongly prefer **open-source technologies** and avoid proprietary Microsoft/Google/Closed-Source solutions whenever possible.
 
 ---
 
