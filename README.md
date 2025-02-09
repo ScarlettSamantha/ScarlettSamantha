@@ -41,11 +41,9 @@ Kubernetes (k8s) ☨️ | Microservices 🏣️ | Virtualization 🖥️ | Netwo
 MySQL 🐜 | PostgreSQL 🐘 | MongoDB 🎃 | Redis 🚀 | Memcached ⚡
 
 ### **Others:**
-
 Linux 🐧 | Netbox 📂 | IPspace 🌍 | Networking 💪 | Security 🔒 | Nginx 🚦 | HAProxy ⚖️ | REST APIs 🔗 | CRUD 🖍️ | MvC 🏩 | DBus
 
 ### **Security:**
-
 Zero Trust 🔒 | Vaults 🛢 | Secrets Management 🦯 | Secure Infrastructure 🏰 | Identity & Access Management (IAM) 🔑 | Threat Modeling 🛡 | **Observability & Monitoring** 📊
 
 ### **Code Optimization & Refactoring:**
@@ -60,7 +58,7 @@ Unit Testing 🧪 | Integration Testing 🔗 | End-to-End Testing 📍 | Robot F
 
 ## 💡 **Likes & Hobbies**
 
-**Tech:** Static/Duck typing 🦆 | Packaging 📦 | High Performance ⚡ | Multiprocessing 🔄\
+**Tech:** Static/Duck typing 🦆 | Packaging 📦 | High Performance ⚡ | Multiprocessing 🔄
 **Interests:**
 
 - Airsoft 💥🔫
